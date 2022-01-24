@@ -1,4 +1,4 @@
-package hello_go
+package gohelloworld
 
 import (
 	. "github.com/r7kamura/gospel"
